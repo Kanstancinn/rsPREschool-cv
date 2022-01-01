@@ -1,5 +1,43 @@
-.photo{
-    position: absolute;
-    top: 10px;
-    left: 200px;
+* {
+    box-sizing: border-box;
+  }
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
 }
+.header{
+    background-color: rgb(78, 159, 197);
+}
+    .cont{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .nav-list{
+        display: flex;
+        align-items: center;
+        list-style: none;
+        background-color: rgb(116, 235, 215);
+    }
+    .nav-link{
+        padding: 0 20px;
+        line-height: 50px;
+    }
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(40, 60, 151);
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(29, 14, 82);
+}
+    .rss{
+        height: 25px;
+    }
