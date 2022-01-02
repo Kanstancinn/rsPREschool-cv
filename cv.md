@@ -30,10 +30,7 @@ I have an adequate attitude to criticism, learn quickly and do not like to stand
 ### Code exemple
 
 ~~~
-<a href="#" data-role="post-count" class="publisher-nav-color" data-nav="conversation">
-        <span class="comment-count">0 комментариев</span>
-        <span class="comment-count-placeholder">Комментарии</span>
-      </a>
+
 ~~~
 
 ---
