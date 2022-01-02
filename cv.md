@@ -30,16 +30,7 @@ I have an adequate attitude to criticism, learn quickly and do not like to stand
 ### Code exemple
 
 ~~~
-<!DOCTYPE html>
- <html>
-   <head>
-      <meta charset="utf-8" >
-      <title>Code exemple</title>
-   </head>
-      <body>
-       <p>Code exemple</p>
-   </body>
-</html>
+
 ~~~
 
 ---
